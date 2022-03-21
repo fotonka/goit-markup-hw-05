@@ -166,7 +166,7 @@ button {
 .list-item::after {
 	content: "";
 	position: absolute;
-	top: 28px;
+	top: 43px;
 	left: 0;
 	height: 4px;
 	width: 100%;
